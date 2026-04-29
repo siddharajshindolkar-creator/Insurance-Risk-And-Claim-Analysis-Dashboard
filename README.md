@@ -120,7 +120,7 @@ The dashboard enables **data-driven decision-making** for underwriting, risk man
 
 ***8. Dashboard Preview:***
 
-![Insurance Dashboard]((https://github.com/siddharajshindolkar-creator/Insurance-Risk-And-Claim-Analysis-Dashboard/blob/main/Insurance%20Rick%20And%20Claim%20Analysis%20Dashboard.PNG))
+![Insurance Dashboard](https://github.com/siddharajshindolkar-creator/Insurance-Risk-And-Claim-Analysis-Dashboard/blob/main/Insurance%20Rick%20And%20Claim%20Analysis%20Dashboard.PNG)
 
 
 
