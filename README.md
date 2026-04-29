@@ -39,6 +39,7 @@ The dashboard enables **data-driven decision-making** for underwriting, risk man
 
 
 **Key Visuals**
+
 *Total Claim Amount by Car Use (Donut Chart)*
 * Compares claim contribution between private and commercial vehicles
 
