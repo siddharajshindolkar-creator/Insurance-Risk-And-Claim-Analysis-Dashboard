@@ -136,3 +136,6 @@ This dashboard helps businesses:
 * Support executive-level reporting and decision-making
 
 
+***Author:*** 
+**Siddharaj Shindolkar**
+Aspiring Data Analyst | Power BI | SQL | Excel
