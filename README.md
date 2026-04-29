@@ -1,4 +1,5 @@
 ***Insurance Risk & Claim Analysis Dashboard (Power BI)***
+
 **An interactive Power BI dashboard built to analyze insurance risk and claim patterns across customer demographics, vehicle attributes, and geographic regions—providing actionable insights into claim behavior, risk exposure, and business performance**
 
 
